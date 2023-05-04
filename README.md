@@ -14,8 +14,6 @@ Bu, PostgreSQL ve Laravel kullanarak oluşturulmuş bir proje örneğidir.
 
 2. `.env.example` dosyasını `.env` olarak kopyalayın ve PostgreSQL veritabanı yapılandırmasını ayarlayın:
 
-Tabii, aşağıda bir örnek PostgreSQL ve Laravel projesi için bir README.md dosyası oluşturdum. Bu dosya, GitHub'da projenin ana sayfasında görüntülenebilir ve projenin kullanımı, gereksinimleri ve diğer bilgileri hakkında bilgi sağlar.
-  
 DB_CONNECTION=pgsql <br>
 DB_HOST=127.0.0.1 <br>
 DB_PORT=5432 <br>
