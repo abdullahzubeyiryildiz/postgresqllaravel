@@ -58,7 +58,7 @@ DB_PASSWORD=sifre <br>
  <br>
 5. Laravel uygulamasını çalıştırmak için aşağıdaki komutları çalıştırın:
 
-php artisan key:generate
-php artisan migrate
-php artisan serve
+php artisan key:generate <br>
+php artisan migrate <br>
+php artisan serve  
 
