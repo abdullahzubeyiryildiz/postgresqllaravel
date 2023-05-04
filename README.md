@@ -12,7 +12,7 @@ Bu, PostgreSQL ve Laravel kullanarak oluşturulmuş bir proje örneğidir.
 
 1. Bu projeyi bilgisayarınıza klonlayın:
 
-4. `.env.example` dosyasını `.env` olarak kopyalayın ve PostgreSQL veritabanı yapılandırmasını ayarlayın:
+2. `.env.example` dosyasını `.env` olarak kopyalayın ve PostgreSQL veritabanı yapılandırmasını ayarlayın:
 
 Tabii, aşağıda bir örnek PostgreSQL ve Laravel projesi için bir README.md dosyası oluşturdum. Bu dosya, GitHub'da projenin ana sayfasında görüntülenebilir ve projenin kullanımı, gereksinimleri ve diğer bilgileri hakkında bilgi sağlar.
   
@@ -23,7 +23,7 @@ DB_DATABASE=veritabani_adi <br>
 DB_USERNAME=kullanici_adi <br>
 DB_PASSWORD=sifre <br>
  <br>
-5. Laravel uygulamasını çalıştırmak için aşağıdaki komutları çalıştırın:
+3. Laravel uygulamasını çalıştırmak için aşağıdaki komutları çalıştırın:
 
 php artisan key:generate <br>
 php artisan migrate <br>
