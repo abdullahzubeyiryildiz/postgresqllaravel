@@ -48,14 +48,14 @@ composer install
 
 cp .env.example .env
 
-Copy code
-DB_CONNECTION=pgsql
-DB_HOST=127.0.0.1
-DB_PORT=5432
-DB_DATABASE=veritabani_adi
-DB_USERNAME=kullanici_adi
-DB_PASSWORD=sifre
-
+ 
+DB_CONNECTION=pgsql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=5432 <br>
+DB_DATABASE=veritabani_adi <br>
+DB_USERNAME=kullanici_adi <br>
+DB_PASSWORD=sifre <br>
+ <br>
 5. Laravel uygulamasını çalıştırmak için aşağıdaki komutları çalıştırın:
 
 php artisan key:generate
